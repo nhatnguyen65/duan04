@@ -1,0 +1,37 @@
+/* ảnh logo */
+.navbar-brand img {
+    width: 60px;
+}
+
+.pt-130 {
+    padding-top: 130px ;
+}
+/* img header right */
+/* img header home anh FAQ */
+.main-header .img-right img,
+header .img-right img {
+    max-height: 380px;
+}
+
+/* site left img */
+.site-item img {
+    width: 50px;
+    height: auto;
+}
+
+.subscribe {
+    background-image: url(./img/subscribe.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+/* ảnh logo */
+footer .brand-logo img {
+    width: 130px;
+}
+
+/* fixed footer */
+.blur-filter {
+    backdrop-filter: blur(8px);
+    background: rgba(204, 204, 204, 0.1);
+}
