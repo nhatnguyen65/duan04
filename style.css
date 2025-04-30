@@ -8,8 +8,10 @@
 }
 /* img header right */
 /* img header home anh FAQ */
+/* img single-course description */
 .main-header .img-right img,
-header .img-right img {
+header .img-right img,
+.description .img-description img {
     max-height: 380px;
 }
 
